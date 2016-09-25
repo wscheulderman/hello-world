@@ -1,2 +1,2 @@
 # hello-world
-Hello world project
+The proof of the pudding is in the eating
